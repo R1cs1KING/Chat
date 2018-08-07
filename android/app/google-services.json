@@ -1,0 +1,215 @@
+{
+  "project_info": {
+    "project_number": "727912814772",
+    "firebase_url": "https://my-firebase-flutter-app-e85b7.firebaseio.com",
+    "project_id": "my-firebase-flutter-app-e85b7",
+    "storage_bucket": "my-firebase-flutter-app-e85b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727912814772:android:29512a3bcd295a62",
+        "android_client_info": {
+          "package_name": "com.example.asd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727912814772-c9hqtoad2gla0nb6tl4fme3a01da1h5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asd",
+            "certificate_hash": "72448362ca355838a6a16eb0facc35f479687bf4"
+          }
+        },
+        {
+          "client_id": "727912814772-akpt56cp479o8stt6g9503lia16t77oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7Psk69nMghbs7E2uaBo0M-Sx214U9Ow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727912814772-akpt56cp479o8stt6g9503lia16t77oa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727912814772-gfuj2l8t36jvdb0nhb6pc2ne7s0iau7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yourcompany.chat"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727912814772:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727912814772-aikliqne4k7l2gkj25ojig4sginki42e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "72448362ca355838a6a16eb0facc35f479687bf4"
+          }
+        },
+        {
+          "client_id": "727912814772-akpt56cp479o8stt6g9503lia16t77oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7Psk69nMghbs7E2uaBo0M-Sx214U9Ow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727912814772-akpt56cp479o8stt6g9503lia16t77oa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727912814772-gfuj2l8t36jvdb0nhb6pc2ne7s0iau7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yourcompany.chat"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727912814772:android:b9ac353c5b5afccd",
+        "android_client_info": {
+          "package_name": "com.yourcompany.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727912814772-p6gt0llncq5t40q4nbrhjk21qv3c3kif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourcompany.chat",
+            "certificate_hash": "72448362ca355838a6a16eb0facc35f479687bf4"
+          }
+        },
+        {
+          "client_id": "727912814772-akpt56cp479o8stt6g9503lia16t77oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7Psk69nMghbs7E2uaBo0M-Sx214U9Ow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727912814772-akpt56cp479o8stt6g9503lia16t77oa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727912814772-gfuj2l8t36jvdb0nhb6pc2ne7s0iau7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yourcompany.chat"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727912814772:android:b396552cc16d9761",
+        "android_client_info": {
+          "package_name": "com.yourcompany.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727912814772-d6f23dkeno2ue9evmr9hn6j01ofnn5ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourcompany.friendlychat",
+            "certificate_hash": "72448362ca355838a6a16eb0facc35f479687bf4"
+          }
+        },
+        {
+          "client_id": "727912814772-akpt56cp479o8stt6g9503lia16t77oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7Psk69nMghbs7E2uaBo0M-Sx214U9Ow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727912814772-akpt56cp479o8stt6g9503lia16t77oa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727912814772-gfuj2l8t36jvdb0nhb6pc2ne7s0iau7a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yourcompany.chat"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

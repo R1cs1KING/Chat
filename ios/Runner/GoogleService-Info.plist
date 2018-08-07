@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>727912814772-gfuj2l8t36jvdb0nhb6pc2ne7s0iau7a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.727912814772-gfuj2l8t36jvdb0nhb6pc2ne7s0iau7a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBRhpYqPibHdJZkDgcZim6ZN8pxrMGv64</string>
+	<key>GCM_SENDER_ID</key>
+	<string>727912814772</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yourcompany.chat</string>
+	<key>PROJECT_ID</key>
+	<string>my-firebase-flutter-app-e85b7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-firebase-flutter-app-e85b7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:727912814772:ios:b9ac353c5b5afccd</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-firebase-flutter-app-e85b7.firebaseio.com</string>
+	<key>CFBundleURLTypes</key>
+      <array>
+          <dict>
+             <key>CFBundleTypeRole</key>
+             <string>Editor</string>
+             <key>CFBundleURLSchemes</key>
+             <array>
+             <!-- reverse url of your client id, for example: -->
+    <string>com.googleusercontent.apps.727912814772-gfuj2l8t36jvdb0nhb6pc2ne7s0iau7a</string>
+             <!-- bundle id, for example: -->
+                <string>com.yourcompany.chat</string>
+             </array>
+          </dict>
+      </array>
+</dict>
+</plist>
